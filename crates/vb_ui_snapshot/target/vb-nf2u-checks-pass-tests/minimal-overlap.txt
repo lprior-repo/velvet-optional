@@ -1,0 +1,7 @@
+layout_fixture=true
+kind=overlap
+screen_id=exec
+first_control_id=a
+second_control_id=b
+first_rect=0,0,10,10
+second_rect=5,5,10,10

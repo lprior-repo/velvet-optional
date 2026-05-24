@@ -1,0 +1,12 @@
+/home/lewis/src/Velvet-ballistics/target/debug/deps/makepad_math-5e1232447d10a581.d: /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/lib.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/complex.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/geometry.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/math_f32.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/math_f64.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/math_usize.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/shader.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/shader_runtime.rs
+
+/home/lewis/src/Velvet-ballistics/target/debug/deps/libmakepad_math-5e1232447d10a581.rmeta: /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/lib.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/complex.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/geometry.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/math_f32.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/math_f64.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/math_usize.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/shader.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/shader_runtime.rs
+
+/cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/lib.rs:
+/cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/complex.rs:
+/cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/geometry.rs:
+/cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/math_f32.rs:
+/cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/math_f64.rs:
+/cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/math_usize.rs:
+/cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/shader.rs:
+/cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/libs/math/src/shader_runtime.rs:

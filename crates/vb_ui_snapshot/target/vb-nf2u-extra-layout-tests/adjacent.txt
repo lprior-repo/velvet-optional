@@ -1,0 +1,12 @@
+layout_fixture=true
+kind=overlap
+screen_id=execution_overview
+first_control_id=a
+second_control_id=b
+first_rect=0,0,100,100
+second_rect=100,0,100,100
+label_rect=0,0,10,10
+container_rect=0,0,100,100
+viewport_rect=0,0,1920,1080
+contrast_milli=4500
+selected_visible=true

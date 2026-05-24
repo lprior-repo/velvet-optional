@@ -1,0 +1,7 @@
+layout_fixture=true
+kind=selected_state
+screen_id=execution_overview
+first_control_id=node
+first_rect=100,100,50,50
+viewport_rect=0,0,1920,1080
+selected_visible=true

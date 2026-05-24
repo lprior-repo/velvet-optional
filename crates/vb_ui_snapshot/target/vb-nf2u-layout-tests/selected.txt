@@ -1,0 +1,12 @@
+layout_fixture=true
+kind=selected_state
+screen_id=workflow_graph_authoring
+first_control_id=node_7
+second_control_id=stop_button
+first_rect=0,0,0,0
+second_rect=100,100,50,50
+label_rect=0,0,40,10
+container_rect=0,0,100,100
+viewport_rect=0,0,1920,1080
+contrast_milli=4500
+selected_visible=false

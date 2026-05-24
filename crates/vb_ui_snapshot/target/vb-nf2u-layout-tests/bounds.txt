@@ -1,0 +1,12 @@
+layout_fixture=true
+kind=bounds
+screen_id=execution_overview
+first_control_id=run_button
+second_control_id=stop_button
+first_rect=1900,10,40,20
+second_rect=100,100,50,50
+label_rect=0,0,40,10
+container_rect=0,0,100,100
+viewport_rect=0,0,1920,1080
+contrast_milli=4500
+selected_visible=true

@@ -1,0 +1,7 @@
+layout_fixture=true
+kind=selected_state
+screen_id=workflow_graph_authoring
+first_control_id=node_7
+first_rect=0,0,0,0
+viewport_rect=0,0,1920,1080
+selected_visible=false

@@ -1,0 +1,9 @@
+/home/lewis/src/velvet-ballistics/crates/vb_ui/target/debug/deps/makepad_script_derive-0ff1a15b28f20bce.d: /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/platform/script/derive/src/lib.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/platform/script/derive/src/derive_scriptable.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/platform/script/derive/src/error.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/platform/script/derive/src/script.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/platform/script/derive/src/swizzle.rs
+
+/home/lewis/src/velvet-ballistics/crates/vb_ui/target/debug/deps/libmakepad_script_derive-0ff1a15b28f20bce.so: /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/platform/script/derive/src/lib.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/platform/script/derive/src/derive_scriptable.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/platform/script/derive/src/error.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/platform/script/derive/src/script.rs /cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/platform/script/derive/src/swizzle.rs
+
+/cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/platform/script/derive/src/lib.rs:
+/cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/platform/script/derive/src/derive_scriptable.rs:
+/cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/platform/script/derive/src/error.rs:
+/cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/platform/script/derive/src/script.rs:
+/cache/cargo-shared/git/checkouts/makepad-ec2f134f34cd9f98/20b6c53/platform/script/derive/src/swizzle.rs:

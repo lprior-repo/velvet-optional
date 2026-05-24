@@ -1,0 +1,7 @@
+layout_fixture=true
+kind=overlap
+screen_id=execution_overview
+first_control_id=run_button
+second_control_id=stop_button
+first_rect=10,10,100,60
+second_rect=80,50,50,50

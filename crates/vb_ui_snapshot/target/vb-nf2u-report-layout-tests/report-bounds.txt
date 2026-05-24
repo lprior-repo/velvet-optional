@@ -1,0 +1,6 @@
+layout_fixture=true
+kind=bounds
+screen_id=execution_overview
+first_control_id=run_button
+first_rect=1900,10,40,20
+viewport_rect=0,0,1920,1080

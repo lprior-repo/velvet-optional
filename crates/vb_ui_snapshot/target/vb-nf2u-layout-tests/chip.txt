@@ -1,0 +1,12 @@
+layout_fixture=true
+kind=chip_readability
+screen_id=execution_overview
+first_control_id=run_status
+second_control_id=stop_button
+first_rect=0,0,0,0
+second_rect=100,100,50,50
+label_rect=0,0,40,10
+container_rect=0,0,100,100
+viewport_rect=0,0,1920,1080
+contrast_milli=1200
+selected_visible=true

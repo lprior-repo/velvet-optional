@@ -1,0 +1,6 @@
+layout_fixture=true
+kind=clipping
+screen_id=execution_overview
+first_control_id=label
+label_rect=0,0,50,20
+container_rect=0,0,100,100
